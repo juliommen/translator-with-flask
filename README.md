@@ -1,6 +1,6 @@
 # Web App for Translation of Phrases (English to French and vice-versa)
 
-###Technologies:
+### Technologies:
   - Frontend: HTML+Javascript
   - Backend: Python + Flask 
   - API: Language Translator (IBM Cloud)
